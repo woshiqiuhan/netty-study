@@ -1,0 +1,13 @@
+// 声明协议的版本
+syntax = "proto3";
+
+// 设置生成的外部类名，同时也是文件名
+option java_outer_classname = "POJOOuter";
+
+// protobuf 使用 message 管理数据，类似 class
+message POJO {
+  // 声明属性，1不是值 而是代表属性序号
+  int64 id = 1;
+  string name = 2;
+  bool flag = 3;
+}
