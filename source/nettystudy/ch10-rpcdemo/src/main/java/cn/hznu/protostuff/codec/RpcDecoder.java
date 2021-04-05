@@ -1,7 +1,7 @@
 package cn.hznu.protostuff.codec;
 
-import cn.hznu.rpc.protocol.InvokerProtocol;
-import cn.hznu.rpc.serialize.Protostuff.ProtostuffSerializer;
+import cn.hznu.protobuf.protocol.InvokerProtocol;
+import cn.hznu.protobuf.serialize.Protostuff.ProtostuffSerializer;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.ByteToMessageDecoder;

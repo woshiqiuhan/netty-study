@@ -1,0 +1,2 @@
+nettyClient = cn.qh.remoting.transport.client.NettyRpcClient
+nettyServer = cn.qh.remoting.transport.server.NettyRpcServer

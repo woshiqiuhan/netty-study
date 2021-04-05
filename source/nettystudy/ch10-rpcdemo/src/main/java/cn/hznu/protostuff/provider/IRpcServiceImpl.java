@@ -1,6 +1,6 @@
 package cn.hznu.protostuff.provider;
 
-import cn.hznu.rpc.api.IRpcService;
+import cn.hznu.protobuf.api.IRpcService;
 
 public class IRpcServiceImpl implements IRpcService {
     @Override

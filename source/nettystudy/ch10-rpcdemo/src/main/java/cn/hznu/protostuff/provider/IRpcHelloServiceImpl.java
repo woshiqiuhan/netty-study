@@ -1,6 +1,6 @@
 package cn.hznu.protostuff.provider;
 
-import cn.hznu.rpc.api.IRpcHelloService;
+import cn.hznu.protobuf.api.IRpcHelloService;
 
 /**
  * 对 api包下类，即对外提供方法对实现

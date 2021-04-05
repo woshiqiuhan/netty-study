@@ -1,7 +1,7 @@
 package cn.hznu.protostuff.consumer.proxy;
 
-import cn.hznu.rpc.codec.RpcEncoder;
-import cn.hznu.rpc.protocol.InvokerProtocol;
+import cn.hznu.protobuf.codec.RpcEncoder;
+import cn.hznu.protobuf.protocol.InvokerProtocol;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

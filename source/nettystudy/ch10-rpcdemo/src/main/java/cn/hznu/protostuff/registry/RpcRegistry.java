@@ -1,6 +1,6 @@
 package cn.hznu.protostuff.registry;
 
-import cn.hznu.rpc.codec.RpcDecoder;
+import cn.hznu.protobuf.codec.RpcDecoder;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

@@ -1,0 +1,2 @@
+consistentHashLoadBalance = cn.qh.loadbalance.loadbalancer.ConsistentHashLoadBalance
+randomLoadBalance = cn.qh.loadbalance.loadbalancer.RandomLoadBalance

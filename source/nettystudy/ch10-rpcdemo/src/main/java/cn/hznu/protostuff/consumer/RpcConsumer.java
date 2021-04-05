@@ -1,8 +1,8 @@
 package cn.hznu.protostuff.consumer;
 
-import cn.hznu.rpc.api.IRpcHelloService;
-import cn.hznu.rpc.api.IRpcService;
-import cn.hznu.rpc.consumer.proxy.RpcProxy;
+import cn.hznu.protobuf.api.IRpcHelloService;
+import cn.hznu.protobuf.api.IRpcService;
+import cn.hznu.protobuf.consumer.proxy.RpcProxy;
 
 public class RpcConsumer {
     public static void main(String[] args) {

@@ -1,12 +1,14 @@
 package cn.hznu.pojo;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
 @Data
+@Builder
 @AllArgsConstructor
 @NoArgsConstructor
 public class POJO implements Serializable { // 实现 Serializable 接口，表示当前类可被序列化

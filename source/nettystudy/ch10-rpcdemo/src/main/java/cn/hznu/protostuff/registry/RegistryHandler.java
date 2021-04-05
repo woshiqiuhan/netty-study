@@ -1,6 +1,6 @@
 package cn.hznu.protostuff.registry;
 
-import cn.hznu.rpc.protocol.InvokerProtocol;
+import cn.hznu.protobuf.protocol.InvokerProtocol;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 

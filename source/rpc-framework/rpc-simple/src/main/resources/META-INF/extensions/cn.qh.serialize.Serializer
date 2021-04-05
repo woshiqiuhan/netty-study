@@ -1,0 +1,2 @@
+protostuff = cn.qh.serialize.protostuff.ProtostuffSerializer
+kryo = cn.qh.serialize.kryo.KryoSerializer
